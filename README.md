@@ -1,4 +1,5 @@
 # Introduction
+This is the code implementation of 'Pedestrian trajectory prediction based on Deep Convolutional LSTM Network'
 # Prerequisites  
 python 3.5  
 ubuntu 14.04  
